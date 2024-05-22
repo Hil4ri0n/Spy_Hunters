@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\main.cpp(522,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\main.cpp(746,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\main.cpp(746,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\main.cpp(768,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\main.cpp(768,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  szablon2vs19.vcxproj -> C:\Users\User\OneDrive\studia\semestr_1\Project_Spy_Hunters_3-1\x64\Debug\szablon2vs19.exe

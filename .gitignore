@@ -1,0 +1,5 @@
+# Exclude Visual Studio files
+.vs/
+*.vcxproj.user
+*.opendb
+*.VC.db
